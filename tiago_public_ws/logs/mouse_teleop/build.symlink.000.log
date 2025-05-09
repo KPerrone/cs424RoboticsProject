@@ -1,0 +1,5 @@
+Symlinking /home/katherine/tiago_public_ws/devel/lib/pkgconfig/mouse_teleop.pc
+Symlinking /home/katherine/tiago_public_ws/devel/lib/mouse_teleop/mouse_teleop.py
+Symlinking /home/katherine/tiago_public_ws/devel/lib/mouse_teleop/cmake.lock
+Symlinking /home/katherine/tiago_public_ws/devel/share/mouse_teleop/cmake/mouse_teleopConfig-version.cmake
+Symlinking /home/katherine/tiago_public_ws/devel/share/mouse_teleop/cmake/mouse_teleopConfig.cmake

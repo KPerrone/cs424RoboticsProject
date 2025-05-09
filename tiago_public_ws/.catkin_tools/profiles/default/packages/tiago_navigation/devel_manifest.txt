@@ -1,0 +1,2 @@
+tiago_navigation/tiago_navigation
+/home/katherine/tiago_public_ws/devel/.private/tiago_navigation/cmake.lock /home/katherine/tiago_public_ws/devel/./cmake.lock

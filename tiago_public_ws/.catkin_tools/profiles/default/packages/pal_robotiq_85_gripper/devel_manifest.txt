@@ -1,0 +1,2 @@
+pal_robotiq_gripper/pal_robotiq_85_gripper/pal_robotiq_85_gripper
+/home/katherine/tiago_public_ws/devel/.private/pal_robotiq_85_gripper/cmake.lock /home/katherine/tiago_public_ws/devel/./cmake.lock

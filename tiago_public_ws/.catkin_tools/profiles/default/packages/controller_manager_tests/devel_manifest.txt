@@ -1,0 +1,8 @@
+ros_control/controller_manager_tests
+/home/katherine/tiago_public_ws/devel/.private/controller_manager_tests/cmake.lock /home/katherine/tiago_public_ws/devel/./cmake.lock
+/home/katherine/tiago_public_ws/devel/.private/controller_manager_tests/lib/libcontroller_manager_tests.so /home/katherine/tiago_public_ws/devel/lib/libcontroller_manager_tests.so
+/home/katherine/tiago_public_ws/devel/.private/controller_manager_tests/lib/python3/dist-packages/controller_manager_tests/__init__.py /home/katherine/tiago_public_ws/devel/lib/python3/dist-packages/controller_manager_tests/__init__.py
+/home/katherine/tiago_public_ws/devel/.private/controller_manager_tests/lib/pkgconfig/controller_manager_tests.pc /home/katherine/tiago_public_ws/devel/lib/pkgconfig/controller_manager_tests.pc
+/home/katherine/tiago_public_ws/devel/.private/controller_manager_tests/lib/controller_manager_tests/dummy_app /home/katherine/tiago_public_ws/devel/lib/controller_manager_tests/dummy_app
+/home/katherine/tiago_public_ws/devel/.private/controller_manager_tests/share/controller_manager_tests/cmake/controller_manager_testsConfig-version.cmake /home/katherine/tiago_public_ws/devel/share/controller_manager_tests/cmake/controller_manager_testsConfig-version.cmake
+/home/katherine/tiago_public_ws/devel/.private/controller_manager_tests/share/controller_manager_tests/cmake/controller_manager_testsConfig.cmake /home/katherine/tiago_public_ws/devel/share/controller_manager_tests/cmake/controller_manager_testsConfig.cmake

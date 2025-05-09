@@ -1,0 +1,8 @@
+prefix=/home/katherine/tiago_public_ws/devel/.private/gazebo_library_sim
+
+Name: gazebo_library_sim
+Description: Description of gazebo_library_sim
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

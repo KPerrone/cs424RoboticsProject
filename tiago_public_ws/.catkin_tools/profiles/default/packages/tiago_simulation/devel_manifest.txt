@@ -1,0 +1,2 @@
+tiago_simulation/tiago_simulation
+/home/katherine/tiago_public_ws/devel/.private/tiago_simulation/cmake.lock /home/katherine/tiago_public_ws/devel/./cmake.lock

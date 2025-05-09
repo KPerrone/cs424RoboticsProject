@@ -1,0 +1,2 @@
+simple_models_robot/simple_models_robot
+/home/katherine/tiago_public_ws/devel/.private/simple_models_robot/cmake.lock /home/katherine/tiago_public_ws/devel/./cmake.lock

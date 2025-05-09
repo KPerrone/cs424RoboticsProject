@@ -1,0 +1,1 @@
+/home/katherine/tiago_public_ws/devel/.private/tiago_rgbd_sensors/share/tiago_rgbd_sensors/cmake/tiago_rgbd_sensorsConfig-version.cmake

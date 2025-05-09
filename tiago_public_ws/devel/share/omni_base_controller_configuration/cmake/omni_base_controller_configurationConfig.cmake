@@ -1,0 +1,1 @@
+/home/katherine/tiago_public_ws/devel/.private/omni_base_controller_configuration/share/omni_base_controller_configuration/cmake/omni_base_controller_configurationConfig.cmake

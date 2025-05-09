@@ -1,0 +1,185 @@
+<sdf version="1.6">
+  <world name="library_world">
+
+    <include>
+      <uri>model://ground_plane</uri>
+    </include>
+    <include>
+      <uri>model://sun</uri>
+    </include>
+
+<!-- Bookshelves -->
+<include><uri>model://bookshelf</uri><name>bs_c1r1</name><pose>1 1 0 0 0 0</pose></include>
+<include><uri>model://bookshelf</uri><name>bs_c1r2</name><pose>2 1 0 0 0 0</pose></include>
+<include><uri>model://bookshelf</uri><name>bs_c1r3</name><pose>3 1 0 0 0 0</pose></include>
+
+<include><uri>model://bookshelf</uri><name>bs_c2r1</name><pose>1 2 0 0 0 3.1416</pose></include>
+<include><uri>model://bookshelf</uri><name>bs_c2r2</name><pose>2 2 0 0 0 3.1416</pose></include>
+<include><uri>model://bookshelf</uri><name>bs_c2r3</name><pose>3 2 0 0 0 3.1416</pose></include>
+
+<include><uri>model://bookshelf</uri><name>bs_c3r1</name><pose>1 4 0 0 0 0</pose></include>
+<include><uri>model://bookshelf</uri><name>bs_c3r2</name><pose>2 4 0 0 0 0</pose></include>
+<include><uri>model://bookshelf</uri><name>bs_c3r3</name><pose>3 4 0 0 0 0</pose></include>
+
+<include><uri>model://bookshelf</uri><name>bs_c4r1</name><pose>1 5 0 0 0 3.1416</pose></include>
+<include><uri>model://bookshelf</uri><name>bs_c4r2</name><pose>2 5 0 0 0 3.1416</pose></include>
+<include><uri>model://bookshelf</uri><name>bs_c4r3</name><pose>3 5 0 0 0 3.1416</pose></include>
+
+<include><uri>model://bookshelf</uri><name>bs_c5r1</name><pose>1 7 0 0 0 0</pose></include>
+<include><uri>model://bookshelf</uri><name>bs_c5r2</name><pose>2 7 0 0 0 0</pose></include>
+<include><uri>model://bookshelf</uri><name>bs_c5r3</name><pose>3 7 0 0 0 0</pose></include>
+
+<include><uri>model://bookshelf</uri><name>bs_c6r1</name><pose>1 8 0 0 0 3.1416</pose></include>
+<include><uri>model://bookshelf</uri><name>bs_c6r2</name><pose>2 8 0 0 0 3.1416</pose></include>
+<include><uri>model://bookshelf</uri><name>bs_c6r3</name><pose>3 8 0 0 0 3.1416</pose></include>
+
+<!-- Tables and Chairs -->
+
+<!-- Table 1 -->
+<include><uri>model://cafe_table</uri><name>table1</name><pose>5 1 0 0 0 0</pose></include>
+<!-- Chairs around Table 1 -->
+<include><uri>model://WoodenChair</uri><name>chair1_1</name><pose>5.5 1 0 0 0 3.14</pose></include>
+<include><uri>model://WoodenChair</uri><name>chair1_2</name><pose>4.5 1 0 0 0 0</pose></include>
+<include><uri>model://WoodenChair</uri><name>chair1_3</name><pose>5 1.5 0 0 0 -1.55</pose></include>
+<include><uri>model://WoodenChair</uri><name>chair1_4</name><pose>5 0.5 0 0 0 1.55</pose></include>
+
+<!-- Table 2 -->
+<include><uri>model://cafe_table</uri><name>table2</name><pose>5 3 0 0 0 0</pose></include>
+<!-- Chairs around Table 1 -->
+<include><uri>model://WoodenChair</uri><name>chair2_1</name><pose>5.5 3 0 0 0 3.14</pose></include>
+<include><uri>model://WoodenChair</uri><name>chair2_2</name><pose>4.5 3 0 0 0 0</pose></include>
+<include><uri>model://WoodenChair</uri><name>chair2_3</name><pose>5 3.5 0 0 0 -1.55</pose></include>
+<include><uri>model://WoodenChair</uri><name>chair2_4</name><pose>5 2.5 0 0 0 1.55</pose></include>
+
+
+<!-- Table 3 -->
+<include><uri>model://cafe_table</uri><name>table3</name><pose>5 6 0 0 0 0</pose></include>
+<!-- Chairs around Table 1 -->
+<include><uri>model://WoodenChair</uri><name>chair3_1</name><pose>5.5 6 0 0 0 3.14</pose></include>
+<include><uri>model://WoodenChair</uri><name>chair3_2</name><pose>4.5 6 0 0 0 0</pose></include>
+<include><uri>model://WoodenChair</uri><name>chair3_3</name><pose>5 6.5 0 0 0 -1.55</pose></include>
+<include><uri>model://WoodenChair</uri><name>chair3_4</name><pose>5 5.5 0 0 0 1.55</pose></include>
+
+<!-- Table 4 -->
+<include><uri>model://cafe_table</uri><name>table4</name><pose>8 1 0 0 0 0</pose></include>
+<!-- Chairs around Table 4 -->
+<include><uri>model://WoodenChair</uri><name>chair4_1</name><pose>8.5 1 0 0 0 3.14</pose></include>
+<include><uri>model://WoodenChair</uri><name>chair4_2</name><pose>7.5 1 0 0 0 0</pose></include>
+<include><uri>model://WoodenChair</uri><name>chair4_3</name><pose>8 1.5 0 0 0 -1.55</pose></include>
+<include><uri>model://WoodenChair</uri><name>chair4_4</name><pose>8 0.5 0 0 0 1.55</pose></include>
+
+
+<!-- Computers on Tables -->
+<include><uri>model://PersonalComputer</uri><name>computer1</name><pose>5 1 0 0 0 0</pose></include>
+<include><uri>model://PersonalComputer</uri><name>computer2</name><pose>5 3 0 0 0 0</pose></include>
+<include><uri>model://PersonalComputer</uri><name>computer3</name><pose>5 6 0 0 0 0</pose></include>
+
+<!-- Books on Tables -->
+<include><uri>model://DietBook</uri><name>books1</name><pose>5.2 1.1 0.75 1 0 0</pose></include>
+<include><uri>model://DietBook</uri><name>books2</name><pose>5.1 3.2 0.75 1 0 0</pose></include>
+<include><uri>model://DietBook</uri><name>books3</name><pose>4.9 5.8 0.75 1 0 0</pose></include>
+
+<!-- Front Desk -->
+<include><uri>model://table</uri><name>frontTable</name><pose>8 7.5 -0.25 0 0 0</pose></include>
+
+<!-- Walls -->
+
+<!-- Left Wall -->
+<model name="wall_left">
+  <static>true</static>
+  <pose>0 4.5 0.5 0 0 0</pose>
+  <link name="link">
+    <collision name="collision">
+      <geometry>
+        <box>
+          <size>0.1 9 1</size>
+        </box>
+      </geometry>
+    </collision>
+    <visual name="visual">
+      <geometry>
+        <box>
+          <size>0.1 9 1</size>
+        </box>
+      </geometry>
+      <material>
+        <script>
+          <uri>file://media/materials/scripts/gazebo.material</uri>
+          <name>Gazebo/Grey</name>
+        </script>
+      </material>
+    </visual>
+  </link>
+</model>
+
+<!-- Right Wall -->
+<model name="wall_right">
+  <static>true</static>
+  <pose>9 4.5 0.5 0 0 0</pose>
+  <link name="link">
+    <collision name="collision">
+      <geometry>
+        <box>
+          <size>0.1 9 1</size>
+        </box>
+      </geometry>
+    </collision>
+    <visual name="visual">
+      <geometry>
+        <box>
+          <size>0.1 9 1</size>
+        </box>
+      </geometry>
+    </visual>
+  </link>
+</model>
+
+<!-- Bottom Wall -->
+<model name="wall_bottom">
+  <static>true</static>
+  <pose>4.5 0 0.5 0 0 0</pose>
+  <link name="link">
+    <collision name="collision">
+      <geometry>
+        <box>
+          <size>9 0.1 1</size>
+        </box>
+      </geometry>
+    </collision>
+    <visual name="visual">
+      <geometry>
+        <box>
+          <size>9 0.1 1</size>
+        </box>
+      </geometry>
+    </visual>
+  </link>
+</model>
+
+<!-- Top Wall -->
+<model name="wall_top">
+  <static>true</static>
+  <pose>4.5 9 0.5 0 0 0</pose>
+  <link name="link">
+    <collision name="collision">
+      <geometry>
+        <box>
+          <size>9 0.1 1</size>
+        </box>
+      </geometry>
+    </collision>
+    <visual name="visual">
+      <geometry>
+        <box>
+          <size>9 0.1 1</size>
+        </box>
+      </geometry>
+    </visual>
+  </link>
+</model>
+
+
+
+
+  </world>
+</sdf>

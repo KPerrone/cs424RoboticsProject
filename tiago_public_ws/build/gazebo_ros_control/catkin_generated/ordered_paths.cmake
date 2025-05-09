@@ -1,0 +1,1 @@
+set(ORDERED_PATHS "/home/katherine/tiago_public_ws/devel/.private/controller_manager/lib;/home/katherine/tiago_public_ws/devel/.private/transmission_interface/lib;/opt/ros/noetic/lib")

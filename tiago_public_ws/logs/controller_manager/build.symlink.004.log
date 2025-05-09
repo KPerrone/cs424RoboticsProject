@@ -1,0 +1,5 @@
+Linked: (/home/katherine/tiago_public_ws/devel/.private/controller_manager/lib/libcontroller_manager.so, /home/katherine/tiago_public_ws/devel/lib/libcontroller_manager.so)
+Linked: (/home/katherine/tiago_public_ws/devel/.private/controller_manager/lib/python3/dist-packages/controller_manager/__init__.py, /home/katherine/tiago_public_ws/devel/lib/python3/dist-packages/controller_manager/__init__.py)
+Linked: (/home/katherine/tiago_public_ws/devel/.private/controller_manager/lib/pkgconfig/controller_manager.pc, /home/katherine/tiago_public_ws/devel/lib/pkgconfig/controller_manager.pc)
+Linked: (/home/katherine/tiago_public_ws/devel/.private/controller_manager/share/controller_manager/cmake/controller_managerConfig.cmake, /home/katherine/tiago_public_ws/devel/share/controller_manager/cmake/controller_managerConfig.cmake)
+Linked: (/home/katherine/tiago_public_ws/devel/.private/controller_manager/share/controller_manager/cmake/controller_managerConfig-version.cmake, /home/katherine/tiago_public_ws/devel/share/controller_manager/cmake/controller_managerConfig-version.cmake)
